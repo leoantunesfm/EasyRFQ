@@ -18,3 +18,7 @@ Ele permite que empresas criem, enviem e acompanhem solicitações de cotação 
 - Cadastro de produtos e itens de cotação
 - Análise de respostas dos fornecedores
 - Histórico de cotações
+
+## 📚 Licença
+ 
+- Este projeto é apenas para fins educacionais.
